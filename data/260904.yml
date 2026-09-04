@@ -7,7 +7,7 @@ about:
   head: e4ce8f9
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-04T19:18:47Z
+  collectedAt: 2026-09-04T21:15:10Z
 timeline:
   created: 2024-12-16
   lastCommit: 2026-03-17
@@ -80,5 +80,38 @@ total:
   openIssue: 1
   commit: 62
 ---
+path: /home/runner/.x-repo/github.com/instavm/clickclickclick
+collectedAt: 2026-09-04T21:15:10Z
+loc:
+  Python:
+    code: 2296
+    comments: 90
+    blanks: 368
+    files: 25
+  Yaml:
+    code: 321
+    comments: 19
+    blanks: 17
+    files: 5
+  Toml:
+    code: 45
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 191
+    blanks: 114
+    files: 2
+  Text:
+    code: 0
+    comments: 20
+    blanks: 0
+    files: 1
+total:
+  code: 2678
+  comments: 320
+  blanks: 505
+  files: 34
 ---
 
